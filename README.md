@@ -10,4 +10,4 @@ As Prime Minister, he stressed on Islam being the fulcrum of the Pakistani state
 One aspect of exploring whether Imran Khan is using religion strategically i.e. to appeal to the people, is to analyze his “religious tweets” (i.e. tweets with any religious elements) over time. It is important to note here that by religious tweets I do not mean tweets that only talk about religion. I also mean tweets that use religious phrases and elements e.g. a tweet talking about the Kashmir issue containing religious words. The reason why I want to consider the latter as well is because even the use of a few religious terms in otherwise non-religious tweets still signals to readers that religion is important to Imran Khan.
 
 ***1. Has the number of Imran Khan’s tweets that contain religious (specifically Islamic) elements increased over time?***
-***2. Have Imran Khan’s (religious) tweets become more religious over time?***
+<br>***2. Have Imran Khan’s (religious) tweets become more religious over time?***
